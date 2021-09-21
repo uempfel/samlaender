@@ -4,7 +4,7 @@ baseurl = "https://uempfel.github.io/samlaender"
 title = "Bilderrätsel"
 
 [params]
-  description = "Bilderrätsel für den Code zum Schloss. Darauf kommt ihr nie!"
+  description = "Bilderrätsel für den Code zum Schloss"
   name = "Bilderrätsel"
   
   # Enable the darkmode toggle in header
