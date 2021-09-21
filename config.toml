@@ -24,22 +24,17 @@ title = "Bilderrätsel"
 
 [params.homepage]
   title = "Bilderrätsel"
-  description = "Bilderrätsel für den Code zum Schloss. Darauf kommt ihr nie!"
+  description = "Bilderrätsel für den Code zum Schloss"
   photo = "https://cdn.pixabay.com/photo/2015/02/01/17/06/treasure-chest-619868_1280.jpg"
 
-# [params.homepage.social]
-#   title = "Follow me"
-#   description = "I work on everything coding and tweet developer memes"
-#   twitter = "https://twitter.com/"
-#   linkedin = "https://linkedin.com/in/"
-#   github = "https://github.com/"
-#   medium = "https://medium.com/"
-#   reddit = "https://reddit.com/"
-#   dribbble = "https://dribbble.com/"
+[params.homepage.social]
+  title = "Github"
+  #description = "I work on everything coding and tweet developer memes"
+  github = "https://github.com/uempfel"
 
 [[menu.main]]
-  name = "About"
-  url = "/about"
+  name = "Anleitung"
+  url = "/anleitung"
 
 [build]
   writeStats = true
