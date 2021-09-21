@@ -1,6 +1,6 @@
 theme = "blist"
 languageCode = "en-US"
-baseurl = "https://raetsel.uempfel.de"
+baseurl = "https://uempfel.github.io/samlaender"
 title = "Bilderrätsel"
 
 [params]
