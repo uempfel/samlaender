@@ -38,19 +38,3 @@ ___ ___ ___ ___ ___ ___ ___ (7)
 ___ ___ ___ ___ ___ ___ ___ ___ ___ (9)
 
 
-### 
----  
-
-<details> <summary>Sammlung/ Lösung (das wird später gelöscht)</summary>  
-
-| no | Bild                                       | Bedeutung        |
-|----|--------------------------------------------|------------------|
-| 1  | Schaufel und Besen                         | Einkehrschwung |
-| 2  | Staubzucker                                | Powdern          |
-| 3  | Wasserstrudel, Strudel im Kochtopf         | (Topfen)strudel  |
-| 4  | Wasser auf Ski oder Ski in Pool/ Wasserski | Skiwasser        |
-|    | Apfelshorle                                | Lift             |
-|    | Kakao/ Tee mit Schuss                      | Schuss           |
-
-</details> 
-
