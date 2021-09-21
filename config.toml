@@ -1,0 +1,56 @@
+theme = "blist"
+languageCode = "en-US"
+baseurl = "https://blist.vercel.app"
+title = "Bilderrätsel"
+
+[params]
+  description = "Bilderrätsel für den Code zum Schloss. Darauf kommt ihr nie!"
+  name = "Bilderrätsel"
+  
+  # Enable the darkmode toggle in header
+  darkModeToggle = true
+  
+  # Enable search in header
+  enableSearch = true
+
+  # Custom copyright - optional
+  #copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+  #favicon = "favicon.svg"
+
+  # Color for the intro details and social links block, not applicable for dark mode
+  # Supported values: Any color from TailwindCSS default colors
+  # Reference: https://tailwindcss.com/docs/customizing-colors
+  ascentColor = "bg-blue-100"
+
+[params.homepage]
+  title = "Bilderrätsel"
+  description = "Bilderrätsel für den Code zum Schloss. Darauf kommt ihr nie!"
+  photo = "https://cdn.pixabay.com/photo/2015/02/01/17/06/treasure-chest-619868_1280.jpg"
+
+# [params.homepage.social]
+#   title = "Follow me"
+#   description = "I work on everything coding and tweet developer memes"
+#   twitter = "https://twitter.com/"
+#   linkedin = "https://linkedin.com/in/"
+#   github = "https://github.com/"
+#   medium = "https://medium.com/"
+#   reddit = "https://reddit.com/"
+#   dribbble = "https://dribbble.com/"
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
+[build]
+  writeStats = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
