@@ -36,5 +36,4 @@ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ (11)
 ![no4](/samlaender/Picture.png)
 
 ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ (13) 
-TODO: Neben Ziegelstein (Buchenbühl) oder Deutschernnstraße
 
